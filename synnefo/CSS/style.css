@@ -1,0 +1,272 @@
+body{
+  font-family: myFirstFont;
+  src: url(sansation_light.woff); 
+}
+
+
+img{
+    max-width: 100%;
+}
+
+    .first-nav{background-color: goldenrod;}
+    .nav-one{border: solid black 1px;border-bottom: 0px; border-top: 0px; border-left: 0px;}
+    .nav-nav{border: solid black 1px;border-bottom: 0px; border-top: 0px; padding-right:1px;padding-left: 1px;}
+    .nav-nav-nav{border: solid black 1px;border-bottom: 0px; border-top: 0px; padding-right:1px; padding-left: 1px; border-left: 1px;}
+    a{color: rgb(75, 75, 75); font-size:medium; font-weight:700;}
+    .nav-marg{margin-bottom: 20px;}
+    .nav-marg-one{margin-bottom: 10px;}
+
+    .e-learn{font-size: 50px; font-weight:bolder; padding-top: 90px; color: black;}
+.pcolor{color: rgb(71, 71, 71); font-size:medium; font-weight: lighter;}
+.view-c{color: rgb(26, 26, 26); border: 1px solid black; border-radius: 20px; margin-left: 50px; padding-right: 50px; padding: 8px; width: 180px; margin-bottom: 20px;}
+
+.firstbg{  background-image: url("../Images/tem-site-02.jpeg.jpg"); 
+  height: 614px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+  .tn{
+    padding-top: 30px;
+    position: relative;
+    color: goldenrod;
+  }
+  #au{color: gold;}
+  #ot{
+    padding-right: 10px;
+  }
+
+  .tnimg{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-left: 80px;
+  }
+  
+
+  #hero {
+    width: 100%;
+    height: 60vh;
+    background: #fff;
+    padding-top: 10px;
+    padding-bottom: 85px;
+    margin-bottom: 30px;
+  }
+  
+  .navbar .navbar-nav .nav-link {
+    color:whitesmoke;
+    font-size: 1.1em;
+     
+}
+  
+
+  .navbar  .navbar-nav .nav-link:hover{
+    color: goldenrod;
+}
+.navbar-collapse{padding-left: 40px;}
+ 
+#hero h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #3e4450;
+  }
+  
+  #hero h5 {
+    color: #858ea1;
+    margin: 10px 0 30px 0;
+    font-size: 18px;
+  }
+  
+  #hero .btn-get-started {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 30px 10px 30px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: goldenrod;
+    box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
+  }
+  
+  #hero .btn-get-started:hover {
+    background: #206bfb;
+    box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
+  }
+  
+    #hero h1 {
+      font-size: 28px;
+      line-height: 36px;
+    }
+  
+    #hero h5 {
+      font-size: 18px;
+      line-height: 24px;
+      margin-bottom: 30px;
+    }
+    #sections{
+      padding-top: 60px;
+      padding-bottom: 60px;
+    }
+    .imgs{
+      padding-top: 80px;
+      padding-bottom: 40px;
+    }
+    .imgs-one{margin-bottom: 40px;}
+
+
+    
+    .popcsh1{
+      text-align: center;
+      padding-bottom: 40px;
+    }
+
+    .smart-clr{background-color: antiquewhite;}   
+    
+    .olc{background-color:#f99a28; padding-top: 10px; border-radius: 10px 10px 0px 0px;}
+    .quick{background-color: rgb(250, 241, 228); font-size: 13px;}
+    .touch{font-weight: 800;}
+    .lastsyn{padding-top: 8%; width: 70%; margin-left: 30px;}
+
+    .navlist {
+      background-color: #0074D9;
+      position: absolute;
+      width: 100%;}
+
+      .search input[type=text]{
+        width:200px;
+        height:25px;
+        border-radius:25px;
+        border: 2px solid rgb(132, 130, 130);
+    }
+         
+         
+    .search button{
+        background-color: #0074D9;
+        color: #f2f2f2;
+        float: right;
+        padding: 5px 10px;
+        margin-right: 16px;
+        font-size: 12px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .searcholc{
+      color: #f99a28;
+      padding: 15px 10px;
+      margin-right: 16px;
+      font-size: 15px;
+      cursor: pointer;}
+
+      .search-olc-one{background-color: #f99a28; border: rgb(49, 49, 49) solid 2px; border-radius: 15px;}
+   
+.treva,.aven,.velocity,.fox,.circle{border: 2px solid rgb(128, 126, 126); padding: 15px; margin: 18px;}
+
+.clr-legacy{background:  rgb(255, 159, 41); font-weight: 600; font-size: 14px;}
+.legacy{padding-top: 20px; color: rgb(67, 66, 66);}
+
+
+
+/*..*/
+.testimonial{
+  margin: 0 20px 40px;
+}
+.testimonial .testimonial-content{
+  padding: 35px 25px 35px 50px;
+  margin-bottom: 35px;
+  background: #fff;
+  position: relative;
+}
+.testimonial .testimonial-content:before{
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  left: 0;
+  border-top: 15px solid #718076;
+  border-left: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+}
+.testimonial .testimonial-content:after{
+  content: "";
+  position: absolute;
+  bottom: -30px;
+  right: 0;
+  border-top: 15px solid #718076;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+}
+.testimonial-content .testimonial-icon{
+  width: 50px;
+  height: 45px;
+  background: #0CCA4A;
+  text-align: center;
+  font-size: 22px;
+  color: #fff;
+  line-height: 42px;
+  position: absolute;
+  top: 37px;
+  left: -19px;
+}
+.testimonial-content .testimonial-icon:before{
+  content: "";
+  border-bottom: 16px solid #05A739;
+  border-left: 18px solid transparent;
+  position: absolute;
+  top: -16px;
+  left: 1px;
+}
+.testimonial .description{
+  font-size: 15px;
+  font-style: italic;
+  color: #8a8a8a;
+  line-height: 23px;
+  margin: 0;
+}
+.testimonial .title{
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+  color: #525252;
+  text-transform: capitalize;
+  letter-spacing: 1px;
+  margin: 0 0 5px 0;
+}
+.testimonial .post{
+  display: block;
+  font-size: 14px;
+  color: #0CCA4A;
+}
+.owl-theme .owl-controls{
+  margin-top: 20px;
+}
+.owl-theme .owl-controls .owl-page span{
+  background: #ccc;
+  opacity: 1;
+  transition: all 0.4s ease 0s;
+}
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+  background: #0CCA4A;
+}
+
+.wps{width: 70px; border-radius: 50% 50%;}
+
+.form-control{
+height: 45px; font-weight:bold; font-size:14px; color: black !important; border-radius: 30px; 
+ }
+.submit-ex{height: 40px; border: 1px solid black; border-radius: 30px; width: 30%;  font-weight:bold; font-size:14px; color: white; background-color: black;}
+
+
+.last-b{background-color:wheat;}
+
+.poppy{
+  border: solid 1px rgb(229, 228, 228); margin: 15px; border-radius: 10px; background-color:  rgb(247, 247, 247); padding: 0px;
+}
+
+.privacy-s{background-color: rgb(250, 215, 152); font-size: 13px;}
+
+    /*--------------------------------------------------------------
